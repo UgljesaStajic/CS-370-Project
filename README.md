@@ -34,6 +34,3 @@ I believe my responsibility is to create software that is reliable, secure, and 
 
 Even though the pirate agent is only part of a game, the same concerns apply to real AI systems. A model might perform well during training but fail in situations it has not seen. As a developer, I should be transparent about those limitations and consider safety, fairness, privacy, and the effects of incorrect decisions before people rely on the system.
 
-## Project Notebook
-
-[`Stajic_Ugljesa_ProjectTwo.ipynb`](Stajic_Ugljesa_ProjectTwo.ipynb) contains the completed code and saved training output. The notebook does not store the trained model weights, so running it again requires retraining. It also needs the provided `TreasureMaze.py` and `GameExperience.py` files available in the Python environment.
